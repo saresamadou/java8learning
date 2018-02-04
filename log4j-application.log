@@ -1,0 +1,37 @@
+2018-02-03 09:23:43 INFO  LOGGER_TECHNIQUE:25 - Log : Message form default method in java 8, cool or works
+2018-02-03 09:42:44 INFO  LOGGER_TECHNIQUE:25 - Log : Message form default method in java 8, cool or works
+2018-02-03 09:54:04 INFO  LOGGER_TECHNIQUE:25 - Log : Message form default method in java 8, cool or works
+2018-02-03 09:54:04 INFO  LOGGER_TECHNIQUE:25 - Log : 1
+2018-02-03 09:54:45 INFO  LOGGER_TECHNIQUE:25 - Log : Message form default method in java 8, cool or works
+2018-02-03 09:54:45 INFO  LOGGER_TECHNIQUE:25 - Log : 1
+2018-02-03 09:55:39 INFO  LOGGER_TECHNIQUE:25 - Log : Message form default method in java 8, cool or works
+2018-02-03 09:55:39 INFO  LOGGER_TECHNIQUE:25 - Log : 1
+2018-02-03 10:34:22 INFO  LOGGER_TECHNIQUE:25 - Log : Person{name='SARE', age=27, gender=MALE}
+2018-02-03 10:34:22 INFO  LOGGER_TECHNIQUE:25 - Log : Person{name='SARE', age=27, gender=MALE}
+2018-02-03 10:34:22 INFO  LOGGER_TECHNIQUE:25 - Log : Person{name='SARE', age=27, gender=MALE}
+2018-02-03 10:34:22 INFO  LOGGER_TECHNIQUE:25 - Log : Person{name='SARE', age=27, gender=MALE}
+2018-02-03 10:34:59 INFO  LOGGER_TECHNIQUE:25 - Log : firstPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 10:34:59 INFO  LOGGER_TECHNIQUE:25 - Log : fourthPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 10:34:59 INFO  LOGGER_TECHNIQUE:25 - Log : secondPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 10:34:59 INFO  LOGGER_TECHNIQUE:25 - Log : thirdPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 10:36:24 INFO  LOGGER_TECHNIQUE:25 - Log : firstPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 10:36:24 INFO  LOGGER_TECHNIQUE:25 - Log : fourthPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 10:36:24 INFO  LOGGER_TECHNIQUE:25 - Log : secondPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 10:36:24 INFO  LOGGER_TECHNIQUE:25 - Log : thirdPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 10:49:24 INFO  LOGGER_TECHNIQUE:25 - Log : Person{name='SARE', age=27, gender=MALE}
+2018-02-03 10:49:41 INFO  LOGGER_TECHNIQUE:25 - Log : Person{name='SARE', age=27, gender=MALE}
+2018-02-03 10:50:00 INFO  LOGGER_TECHNIQUE:25 - Log : Person{name='SARE', age=270, gender=MALE}
+2018-02-03 19:03:59 INFO  LOGGER_TECHNIQUE:25 - Log : Message form default method in java 8, cool or works
+2018-02-03 19:03:59 INFO  LOGGER_TECHNIQUE:25 - Log : 1
+2018-02-03 19:04:11 INFO  LOGGER_TECHNIQUE:25 - Log : Message form default method in java 8, cool or works
+2018-02-03 19:04:11 INFO  LOGGER_TECHNIQUE:25 - Log : 1
+2018-02-03 19:33:25 INFO  LOGGER_TECHNIQUE:25 - Log : Person{name='SARE', age=270, gender=MALE}
+2018-02-03 19:33:25 INFO  LOGGER_TECHNIQUE:25 - Log : firstPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 19:33:25 INFO  LOGGER_TECHNIQUE:25 - Log : fourthPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 19:33:25 INFO  LOGGER_TECHNIQUE:25 - Log : secondPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 19:33:25 INFO  LOGGER_TECHNIQUE:25 - Log : thirdPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 19:58:44 INFO  LOGGER_TECHNIQUE:25 - Log : Person{name='SARE', age=270, gender=MALE}
+2018-02-03 19:58:44 INFO  LOGGER_TECHNIQUE:25 - Log : firstPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 19:58:44 INFO  LOGGER_TECHNIQUE:25 - Log : fourthPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 19:58:44 INFO  LOGGER_TECHNIQUE:25 - Log : secondPerson{name='SARE', age=27, gender=MALE}
+2018-02-03 19:58:44 INFO  LOGGER_TECHNIQUE:25 - Log : thirdPerson{name='SARE', age=27, gender=MALE}
